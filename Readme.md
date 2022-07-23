@@ -1,0 +1,2 @@
+# Test Jekyll from scratch
+
